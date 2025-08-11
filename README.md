@@ -1,6 +1,6 @@
 [![CI-Release](https://github.com/wiiu-env/homebrew_on_menu_plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/wiiu-env/homebrew_on_menu_plugin/actions/workflows/ci.yml)
 
-# Homebrew on menu
+# Homebrew On Menu
 
 This plugin allows you to boot homebrew directly from your Wii U Menu.
 
