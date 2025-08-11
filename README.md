@@ -54,7 +54,7 @@ but after that it's never updated.
 
 **If the plugin is configured to hide any homebrew except a Homebrew Launcher, the redirection is disabled.**
 
-## Buildflags
+## Build flags
 
 ### Logging
 Building via `make` only logs errors (via OSReport). To enable logging via the [LoggingModule](https://github.com/wiiu-env/LoggingModule) set `DEBUG` to `1` or `VERBOSE`.
