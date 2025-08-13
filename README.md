@@ -1,4 +1,4 @@
-[![CI release](https://github.com/wiiu-env/homebrew_on_menu_plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/wiiu-env/homebrew_on_menu_plugin/actions/workflows/ci.yml)
+[![CI-Release](https://github.com/wiiu-env/homebrew_on_menu_plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/wiiu-env/homebrew_on_menu_plugin/actions/workflows/ci.yml)
 
 # Homebrew On Menu
 
